@@ -13,8 +13,6 @@ To download the latest version of **What The Flow**, head over to the [Releases 
 
 ## 📸 Screenshots
 
-*(Add some screenshots below to show off your app!)*
-
 ### Main Dashboard
 <img width="2322" height="1426" alt="dashboard" src="https://github.com/user-attachments/assets/1f2a0462-b7ac-4908-bf68-26823b83aad0" />
 *The main view where all your strategic tasks are organized.*
