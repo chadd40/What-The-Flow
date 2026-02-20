@@ -1,6 +1,6 @@
 # What The Flow
 
-<img width="608" height="602" alt="icon" src="https://github.com/user-attachments/assets/63e82815-731f-49c5-9bb7-56b9d577e3d4" />
+<img width="304" height="301" alt="icon" src="https://github.com/user-attachments/assets/63e82815-731f-49c5-9bb7-56b9d577e3d4" />
 **What The Flow** is a minimalist, strategic Todo Application designed to keep your workflow clean, organized, and focused. This repository hosts all the official public releases, installers, and auto-update artifacts for the application.
 
 ## 🚀 Downloads & Installers
