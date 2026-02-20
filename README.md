@@ -1,8 +1,6 @@
 # What The Flow
 
-![What The Flow Header Image](https://socialify.git.ci/chadd40/WhatTheFlow/image?description=1&font=Inter&name=1&owner=1&pattern=Plus&theme=Light)
-*(Tip: You can replace the image above with a real screenshot of the app!)*
-
+<img width="608" height="602" alt="icon" src="https://github.com/user-attachments/assets/63e82815-731f-49c5-9bb7-56b9d577e3d4" />
 **What The Flow** is a minimalist, strategic Todo Application designed to keep your workflow clean, organized, and focused. This repository hosts all the official public releases, installers, and auto-update artifacts for the application.
 
 ## 🚀 Downloads & Installers
